@@ -7,6 +7,12 @@ A collection of papers, datasets, code, and links tracking scaling studies and p
 
 #### Kaplan 2020: Scaling Laws for Neural Language Models
 
+Kaplan, Jared, Sam McCandlish, Tom Henighan, Tom B. Brown, Benjamin Chess, Rewon Child, Scott Gray, Alec Radford, Jeffrey Wu, and Dario Amodei. "Scaling laws for neural language models." arXiv preprint arXiv:2001.08361 (2020).
+
+https://arxiv.org/abs/2001.08361
+
+Summary: 
+
 * Performance depends strongly on scale, weakly on model shape
 
 * Smooth power laws
