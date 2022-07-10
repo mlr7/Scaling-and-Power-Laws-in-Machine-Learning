@@ -116,6 +116,7 @@ Sevilla, Jaime, Lennart Heim, Anson Ho, Tamay Besiroglu, Marius Hobbhahn, and Pa
 
 ![](img/flops1.png)
 
+See: https://github.com/epoch-research/Compute-Trends
 
 #### X. Phase Transitions and AGI, Ege Erdil, Metaculus, March 17, 2022
 
