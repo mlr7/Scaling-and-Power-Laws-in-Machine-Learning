@@ -30,6 +30,22 @@ Summary:
 
 * Optimal batch size
 
+#### The World that Bert Built: Huge "Foundation Models" are Turbocharging AI Progress, Economist, June 11, 2022
+
+https://www.economist.com/interactive/briefing/2022/06/11/huge-foundation-models-are-turbo-charging-ai-progress
+
+![](img/blessings1.png)
+
+## Scaling of Traditional (Shallow) Machine Learning Algos (non-deep learning models)
+
+Floares, A., Marius Ferisgan, Daniela Onita, Andrei Ciuparu, G. Calin, and F. Manolache. "The smallest sample size for the desired diagnosis accuracy." Int J Oncol Cancer Ther 2 (2017): 13-19.
+
+https://iaras.org/iaras/filedownloads/ijoct/2017/028-0004(2017).pdf
+
+
+
+https://iaras.org/iaras/filedownloads/ijoct/2017/028-0004(2017).pdf
+
 ## Phase Transitions
 
 #### Compute Trends Across Three Eras of Machine Learning, Jaime Sevilla, Feb 11, 2022
